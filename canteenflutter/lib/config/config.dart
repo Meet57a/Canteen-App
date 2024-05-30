@@ -1,4 +1,4 @@
-const url = 'http://10.80.11.234:3000/';
+const url = 'http:///';
 
 const registration = "${url}registration";
 
